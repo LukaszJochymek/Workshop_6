@@ -6,12 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Book-Service" />
+        <module name="untitled" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Workshop5_BookAPI" target="11" />
-      <module name="Workshop6_BookAPI" target="11" />
-    </bytecodeTargetLevel>
   </component>
 </project>
